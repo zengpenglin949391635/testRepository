@@ -6,4 +6,5 @@ public interface TestInterface {
 	void m2();
 	void m3();
 	void m5();//by lisi
+	void m4();//by zhangsan
 }
